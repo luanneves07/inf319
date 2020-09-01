@@ -1,0 +1,1 @@
+Esta associação é unidirecional e é baseada em apenas um atributo.
